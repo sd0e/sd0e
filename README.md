@@ -2,4 +2,4 @@
 - 👀 I’m interested in full-stack web development
 - 🌱 I’m currently learning React Native and Go
 - 📫 You can reach me on Twitter [@sbd0e](https://twitter.com/sbd0e)
-- 📕 You can read my blog posts at [sebdoe.com](https://sebdoe.com/)
+- 📕 You can read my blog posts at [sebdoe.com](https://sebdoe.com/) and can view my profile at [git.sebdoe.com](https://git.sebdoe.com/)
