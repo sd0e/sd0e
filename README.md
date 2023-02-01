@@ -17,3 +17,4 @@ I'm a 17-year-old developer in the United Kingdom interested in developing tools
 ![Developing since 2015](https://img.shields.io/badge/developing%20since-2015-orange)
 ![Currently learning Kotlin](https://img.shields.io/badge/currently%20learning-Go-blue)
 [![Click for blog](https://img.shields.io/badge/-click%20for%20blog-informational)](https://sebdoe.com/)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sdoe/)
