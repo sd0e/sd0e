@@ -18,3 +18,5 @@ I'm a 17-year-old developer in the United Kingdom interested in developing tools
 ![Currently learning Kotlin](https://img.shields.io/badge/currently%20learning-Kotlin-blue)
 [![Click for blog](https://img.shields.io/badge/-click%20for%20blog-informational)](https://sebdoe.com/)
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sdoe/)
+
+![Project Euler Problems Solved](https://projecteuler.net/profile/sdoe.png)
