@@ -3,7 +3,7 @@
 
 
 ### 👋 Hi, I’m Seb Doe
-I'm a 17-year-old developer in the United Kingdom interested in developing tools that can help people. I also try to provide useful guides on my [blog](https://sebdoe.com). You can find out much more about me on my [portfolio](https://about.sebdoe.com)
+I'm a 17-year-old developer in the United Kingdom interested in developing tools that can help people. I also try to provide useful guides on my [blog](https://sebdoe.com). You can find out much more about me on my [portfolio](https://about.sebdoe.com).
 
 #### **Notable Projects**
 * 📈 [Reddit Tracker](https://tracker.sebdoe.com/): Live, in-depth statistics of Reddit posts (2021)
