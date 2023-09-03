@@ -13,6 +13,7 @@ I'm a 17-year-old developer in the United Kingdom interested in developing tools
 * 📕 [Latin Lookup](https://latinlookup-33567.web.app/): Find definitions and etymologies of Latin words with ease (v1 2021, v2 2022)
 * 🔢 [parsemath](https://github.com/sd0e/parsemath): Parse mathematical equations as strings to a number result (2023)
 * 🟨 [Large Text Displayer](https://git.sebdoe.com/LargeTextDisplayer): Make text visible from afar by making it scroll (2019)
+* 📉 [Termigraph](https://github.com/sd0e/termigraph-js): Display multiple graphs on axes generated within your terminal (uses [parsemath](https://github.com/sd0e/parsemath)) (2023)
 
 ![Developing since 2015](https://img.shields.io/badge/developing%20since-2015-orange)
 ![Currently learning Kotlin](https://img.shields.io/badge/currently%20learning-Kotlin-blue)
